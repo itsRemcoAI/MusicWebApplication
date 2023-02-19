@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2299a28b-694c-4144-805a-c5db91c8d54d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MidiScribe/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webshop/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusicWebApplication/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusicWebApplication/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Webshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Webshop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Webshop/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Remco/Documents/MusicWebApplication",
+    "last_opened_file_path": "C:/Users/Remco/Documents/MusicWebApplication/Webshop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,6 +52,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Remco\Documents\MusicWebApplication\Webshop" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MusicWebApplication" type="Python.DjangoServer" factoryName="Django server">
       <module name="MusicWebApplication" />
@@ -89,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676478117485</updated>
       <workItem from="1676478118616" duration="1397000" />
-      <workItem from="1676817063366" duration="9750000" />
+      <workItem from="1676817063366" duration="10654000" />
     </task>
     <servers />
   </component>
